@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Shai Lencovsky 👋
 
 ### I'm a Junior Software Engineer
 
@@ -17,8 +17,8 @@
 
 ### 📫 Connect with me:
 
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Portfolio:(https://projects-blush-tau.vercel.app/)
+- LinkedIn: (https://www.linkedin.com/in/shai-lencovsky)
+- Email:(mailto:Shaishi1@hotmail.com)
 
 Thanks for visiting!
