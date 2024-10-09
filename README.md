@@ -9,14 +9,15 @@
 - 🌱 Currently learning: **React.js** and **Rustful API (Express)**
 - 💻 I enjoy working on **front-end development** but also learning full-stack.
   
-### Languages & Frameworks:
-- **Python**
-- **SQL**
-- **CSS**
-- **JavaScript**
-- **React**
-- **Tailwind CSS**
-
+<h2 align="center"> Languages & Frameworks:
+  <br>
+  <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,vercel,vscode,wordpress"/><br>
+<img src="https://skillicons.dev/icons?i=js,html,css,angular,bash,bootstrap,express,git,github,java,nextjs,nodejs,npm,postman,py"/>
+  
+</a>
+</h2>
 ---
 
 <h3 align="center">
