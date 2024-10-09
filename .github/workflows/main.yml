@@ -1,1 +1,36 @@
+name: Generate Snake
 
+on:
+  # Triggers the workflow on push or pull request events to the repository.
+  push:
+    branches:
+      - main
+  # Also run every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checks out the repository under $GITHUB_WORKSPACE, so the job can access it
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # 2. Generates the snake game from a GitHub user's contribution graph
+      - name: Generate Snake Contribution Graph
+        uses: Platane/snk@v2
+        with:
+          github_user_name: S-Lencovsky
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
+
+      # 3. Push the generated content to the `output` branch
+      # The `output` branch stores the images that can be used in the README
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
