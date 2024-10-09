@@ -17,8 +17,8 @@
 
 ### 📫 Connect with me:
 
-- Portfolio:(https://projects-blush-tau.vercel.app/)
-- LinkedIn: (https://www.linkedin.com/in/shai-lencovsky)
-- Email:(mailto:Shaishi1@hotmail.com)
+- [Portfolio](https://projects-blush-tau.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/shai-lencovsky)
+- [Email](mailto:Shaishi1@hotmail.com)
 
 Thanks for visiting!
