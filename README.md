@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 # Hello, I'm Shai Lencovsky 👋
 
 ### I'm a Junior Software Engineer
