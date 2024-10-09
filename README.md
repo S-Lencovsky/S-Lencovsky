@@ -18,6 +18,10 @@
   
 </a>
 </h2>
+
+<h2>
+<img alt="github-snake" src="https://raw.githubusercontent.com/S-Lencovsky/S-Lencovsky/output/github-contribution-grid-snake.svg" />
+</h2>
 ---
 
 <h3 align="center">
