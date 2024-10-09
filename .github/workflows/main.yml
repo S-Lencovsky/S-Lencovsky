@@ -5,10 +5,10 @@ on:
   push:
     branches:
       - main
-  # Also run every 6 hours
+  # Also run every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  #This command allows us to run the Action automatically from the Actions tab.
+  # Allows us to run the Action manually from the Actions tab.
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checks out the repository under $GITHUB_WORKSPACE, so the job can access it
+      # 1. Checks out the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
@@ -24,9 +24,7 @@ jobs:
       - name: Generate Snake Contribution Graph
         uses: Platane/snk@v2
         with:
-          github_user_name: S-Lencovsky
-          gif_out_path: dist/github-snake.gif
-          svg_out_path: dist/github-snake.svg
+          github_user_name: S-Lencovsky  # Replace with your GitHub username
 
       # 3. Push the generated content to the `output` branch
       # The `output` branch stores the images that can be used in the README
