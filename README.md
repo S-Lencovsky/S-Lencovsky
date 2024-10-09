@@ -20,7 +20,7 @@
 </h2>
 
 <h2>
-<img alt="github-snake" src="https://raw.githubusercontent.com/S-Lencovsky/S-Lencovsky/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/S-Lencovsky/S-Lencovsky/output/github-snake-dark.svg" />
 </h2>
 ---
 
