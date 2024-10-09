@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm [Your Name] 👋
 
-<!--
-**S-Lencovsky/S-Lencovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Junior Software Engineer
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: **React.js** and **Rustful API (Express)**
+- 💻 I enjoy working on **front-end development** but also learning full-stack.
+  
+### Languages & Frameworks:
+- **Python**
+- **SQL**
+- **CSS**
+- **JavaScript**
+- **React**
+- **Tailwind CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with me:
+
+- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: [your-email@example.com](mailto:your-email@example.com)
+
+Thanks for visiting!
