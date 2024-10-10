@@ -1,13 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=S-Lencovsky.S-Lencovsky" />
-<h1 align="center">
+<h1 align="right">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=50&width=435&lines=Hello!;I'm+Shai+Lencovsky" />
   </a>
+
 </h1>
-### I'm a Junior Software Engineer
+               <h4 align="Center">I'm a Junior Software Engineer
 
 - 🌱 Currently learning: **React.js** and **Rustful API (Express)**
 - 💻 I enjoy working on **front-end development** but also learning full-stack.
+  </h2
+
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzgzOTcwdmo3NjR1MnhwdTg4enUwaXZwMXQzdDdndWR4dTliNXRpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/>
+
+  <br>
   
 <h2 align="center"> Languages & Frameworks:
   <br>
