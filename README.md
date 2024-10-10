@@ -22,7 +22,19 @@
 <h2>
 <img alt="github-snake" src="https://raw.githubusercontent.com/S-Lencovsky/S-Lencovsky/output/github-snake-dark.svg" />
 </h2>
----
+
+<table>
+  <tr>
+    <td>
+  <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=S-Lencovsky&theme=dark"/>
+  </a>
+    </td>
+    <td>
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Lencovsky&show_icons=true&theme=dark" style="display:inline-block;"/>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">
   📫 Connect with me:
@@ -40,10 +52,4 @@
     </a>
 </h3>
 
-<h3 align="Center">
-  <a href="
-    https://git.io/streak-stats">
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=S-Lencovsky&theme=dark">
-</h3>
 Thanks for visiting!
