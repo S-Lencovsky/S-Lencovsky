@@ -39,4 +39,11 @@
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
     </a>
 </h3>
+
+<h3 align="Center">
+  <a href="
+    https://git.io/streak-stats">
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=S-Lencovsky&theme=dark">
+</h3>
 Thanks for visiting!
